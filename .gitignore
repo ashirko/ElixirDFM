@@ -24,3 +24,6 @@ dfm-*.tar
 
 # Ignore VS Code Elixir language server files
 .elixir_ls/
+
+# Ignore Idea files
+.idea/
